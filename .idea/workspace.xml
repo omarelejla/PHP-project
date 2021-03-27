@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e58e4312-5966-4208-b0c9-589313d878eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/restaurant template/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/.idea/web-design-course-restaurant-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/.idea/php template.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/add-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/add-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/add-category.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/add-category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/add-food.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/add-food.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/delete-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/delete-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/manage-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/manage-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/manage-category.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/manage-category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/manage-food.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/manage-food.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/manage-order.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/manage-order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/partials/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/partials/login-check.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/partials/menu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/update-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/update-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/update-category.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/update-category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/update-food.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/update-food.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/update-order.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/update-order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/admin/update-password.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/admin/update-password.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/categories.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/category-foods.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/config/constants.php" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant template/config/constants.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/food-search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/foods.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/images/category/120901448_3508310599219647_5097660650509067858_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/images/category/1_15070202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/images/category/key_jarrar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/images/category/thumbnail_ShadiAlbarqouni.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant template/order.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/restaurant template" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1pviFMVqRHdGShsWLpr76KHFcWl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e58e4312-5966-4208-b0c9-589313d878eb" name="Default Changelist" comment="" />
+      <created>1616069859933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616069859933</updated>
+      <workItem from="1616069861729" duration="2121000" />
+      <workItem from="1616231480436" duration="32000" />
+      <workItem from="1616855746696" duration="1512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-917" y="16" key="#PHP" timestamp="1616069950786">
+      <screen x="-1280" y="-82" width="1280" height="984" />
+    </state>
+    <state x="-917" y="16" key="#PHP/0.0.1366.728/-1280.-82.1280.984@-1280.-82.1280.984" timestamp="1616069950786" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1616855793636">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728/-1280.-82.1280.984@0.0.1366.728" timestamp="1616855793636" />
+    <state x="-932" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1616231501749">
+      <screen x="-1280" y="-82" width="1280" height="984" />
+    </state>
+    <state x="-932" y="239" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.-82.1280.984@-1280.-82.1280.984" timestamp="1616231501749" />
+  </component>
+</project>
